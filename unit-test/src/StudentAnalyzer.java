@@ -8,7 +8,7 @@ public class StudentAnalyzer {
         }
      
         int count = 0;
-
+ 
         for (Double score : scores) {
             if (score < 0 || score > 10) {
                 continue;
