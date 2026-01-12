@@ -7,8 +7,6 @@
 - **Học kỳ:** 2025 – 2026 (Học kỳ 2)  
 - **Trường / Khoa:** Trường Đại học CMC – Khoa Công nghệ Thông tin & Truyền thông  
 
----
-
 ## 📌 Giới thiệu chung
 Đây là **GitHub Repository** dùng để lưu trữ **toàn bộ bài tập thực hành** của sinh viên trong học phần **Kiểm thử phần mềm**.
 
@@ -18,28 +16,11 @@ Repository được tổ chức nhằm:
 - Làm quen với GitHub (Issues, Commit message, README)
 - Phục vụ cho việc giảng viên kiểm tra và đánh giá bài làm
 
----
-
 ## 🗂️ Cấu trúc Repository
-.
-├── unit-test/ # Bài tập thực hành JUnit (Tuần 2)
-│ ├── src/ # Mã nguồn Java
-│ │ └── StudentAnalyzer.java
-│ ├── test/ # Mã kiểm thử đơn vị JUnit
-│ │ └── StudentAnalyzerTest.java
-│ └── README.md # Mô tả chi tiết bài tập tuần 2
-│
-├── baitap/ # Thư mục chứa các file bài tập khác
-│ └── (ảnh minh chứng, file liên quan)
-│
-└── README.md # README tổng của Repository
-
-less
-Sao chép mã
-
----
 
 ## 📌 Danh sách bài tập đã thực hiện
+- README.md: File mô tả tổng quan các bài tập trên Repository
+- các file lẻ, folder lẻ: Các bài tập thông qua từng tuần
 
 ### 🟢 Bài tập thực hành – Tuần 1
 **Nội dung:**  
@@ -54,8 +35,6 @@ Sinh viên trải nghiệm chất lượng giao diện phần mềm thông qua w
 **Kết quả đạt được:**
 - **Điểm số:** 4710  
 - **Minh chứng:** File ảnh kết quả nằm trong repository (thư mục bài tập)
-
----
 
 ### 🟢 Bài tập thực hành – Tuần 2  
 **Chủ đề:** Kiểm thử đơn vị (Unit Test) với JUnit – Phân tích dữ liệu điểm số học sinh
@@ -80,13 +59,7 @@ Xây dựng chương trình Java để:
   - Trường hợp dữ liệu không hợp lệ
 
 #### 📁 Vị trí source code
-- Toàn bộ mã nguồn và mã kiểm thử nằm trong thư mục:
-unit-test/
-
-yaml
-Sao chép mã
-
----
+- Toàn bộ mã nguồn và mã kiểm thử nằm trong thư mục: unit-test
 
 ## 📌 Ghi chú
 - Các commit được liên kết với **GitHub Issues** theo đúng yêu cầu bài tập
