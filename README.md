@@ -10,11 +10,6 @@
 ---
 
 ## 📌 Giới thiệu
-Đây là bài tập thực hành nhằm làm quen với:
-- Kiểm thử đơn vị (Unit Test) bằng **JUnit 5**
-- Cách tổ chức mã nguồn theo cấu trúc chuẩn
-- Sử dụng **GitHub Issues** và **Commit message** trong quá trình phát triển phần mềm
-
-Chương trình thực hiện phân tích dữ liệu điểm số học sinh và kiểm thử tính đúng đắn của các chức năng.
+Đây là GitHub repo - Nơi lưu trữ bài tập và thông tin các bài tập của sinh viên Phạm Nguyễn Tùng Dương đối với môn học
 
 
