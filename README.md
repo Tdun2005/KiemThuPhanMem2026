@@ -1,25 +1,94 @@
-# KIỂM THỬ PHẦN MỀM
+# 🧪 KIỂM THỬ PHẦN MỀM
 
 ## 👤 Thông tin sinh viên
-- **Họ và tên:** PHẠM NGUYỄN TÙNG DƯƠNG
-- **Môn học:** KIỂM THỬ PHẦN MỀM  
-- **Giảng viên hướng dẫn:** TRƯƠNG ANH HOÀNG  
-- **Học kỳ:** 2025-2026-2
-- **Trường/ Khoa:** Trường Đại học CMC / Khoa CNTT & Truyền Thông 
+- **Họ và tên:** Phạm Nguyễn Tùng Dương  
+- **Môn học:** Kiểm thử phần mềm  
+- **Giảng viên hướng dẫn:** Trương Anh Hoàng  
+- **Học kỳ:** 2025 – 2026 (Học kỳ 2)  
+- **Trường / Khoa:** Trường Đại học CMC – Khoa Công nghệ Thông tin & Truyền thông  
 
 ---
 
-## 📌 Giới thiệu
-Đây là GitHub repo - Nơi lưu trữ bài tập và thông tin các bài tập của sinh viên Phạm Nguyễn Tùng Dương đối với môn học
-Cấu trúc Respository:
-- Các file lẻ: chứa các file bài tập đã thực hiện
-- README.md: chứa nội dung mô tả các bài tập đã làm
+## 📌 Giới thiệu chung
+Đây là **GitHub Repository** dùng để lưu trữ **toàn bộ bài tập thực hành** của sinh viên trong học phần **Kiểm thử phần mềm**.
 
-## 📌 Các bài tập đã thực hiện 
-Bài tập thực hành tuần 1:
-- Sinh viên trải nghiệm chất lượng giao diện phần mềm với https://cantunsee.space/ để lấy điểm cao nhất và chụp ảnh kết quả (có dấu hiệu cá nhân của mình, ví dụ Sign in trình duyệt Chrome) đưa lên repo (Đã làm)
-- Kết quả: 4710
-- Ảnh chụp màn hình: Nằm ở file Can't Unsee
+Repository được tổ chức nhằm:
+- Quản lý mã nguồn bài tập theo từng tuần
+- Thực hành kiểm thử phần mềm (Unit Test)
+- Làm quen với GitHub (Issues, Commit message, README)
+- Phục vụ cho việc giảng viên kiểm tra và đánh giá bài làm
 
-Bài tập thực hành tuần 2:
+---
 
+## 🗂️ Cấu trúc Repository
+.
+├── unit-test/ # Bài tập thực hành JUnit (Tuần 2)
+│ ├── src/ # Mã nguồn Java
+│ │ └── StudentAnalyzer.java
+│ ├── test/ # Mã kiểm thử đơn vị JUnit
+│ │ └── StudentAnalyzerTest.java
+│ └── README.md # Mô tả chi tiết bài tập tuần 2
+│
+├── baitap/ # Thư mục chứa các file bài tập khác
+│ └── (ảnh minh chứng, file liên quan)
+│
+└── README.md # README tổng của Repository
+
+less
+Sao chép mã
+
+---
+
+## 📌 Danh sách bài tập đã thực hiện
+
+### 🟢 Bài tập thực hành – Tuần 1
+**Nội dung:**  
+Sinh viên trải nghiệm chất lượng giao diện phần mềm thông qua website  
+👉 https://cantunsee.space/
+
+**Yêu cầu:**
+- Thực hiện bài test để đạt điểm cao nhất có thể
+- Chụp ảnh kết quả có **dấu hiệu cá nhân** (đăng nhập trình duyệt, thông tin người dùng)
+- Upload ảnh minh chứng lên GitHub Repository
+
+**Kết quả đạt được:**
+- **Điểm số:** 4710  
+- **Minh chứng:** File ảnh kết quả nằm trong repository (thư mục bài tập)
+
+---
+
+### 🟢 Bài tập thực hành – Tuần 2  
+**Chủ đề:** Kiểm thử đơn vị (Unit Test) với JUnit – Phân tích dữ liệu điểm số học sinh
+
+#### 📄 Mô tả bài toán
+Xây dựng chương trình Java để:
+- Phân tích danh sách điểm số học sinh
+- Kiểm thử tính đúng đắn của các chức năng bằng **JUnit 5**
+
+#### ⚙️ Các chức năng chính
+- Đếm số học sinh đạt loại **Giỏi** (điểm ≥ 8.0)
+- Tính **điểm trung bình hợp lệ** (chỉ tính điểm từ 0 đến 10)
+- Bỏ qua dữ liệu không hợp lệ (điểm < 0 hoặc > 10)
+- Trả về giá trị mặc định nếu danh sách rỗng
+
+#### 🧪 Kiểm thử
+- Viết các **test case JUnit** cho từng chức năng
+- Bao phủ các trường hợp:
+  - Trường hợp bình thường
+  - Trường hợp biên (0, 10)
+  - Trường hợp danh sách rỗng
+  - Trường hợp dữ liệu không hợp lệ
+
+#### 📁 Vị trí source code
+- Toàn bộ mã nguồn và mã kiểm thử nằm trong thư mục:
+unit-test/
+
+yaml
+Sao chép mã
+
+---
+
+## 📌 Ghi chú
+- Các commit được liên kết với **GitHub Issues** theo đúng yêu cầu bài tập
+- Repository được sử dụng cho mục đích **học tập và đánh giá môn học**
+- Sinh viên tự thực hiện và hoàn thành các bài tập theo đúng hướng dẫn
