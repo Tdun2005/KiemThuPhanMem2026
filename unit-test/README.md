@@ -8,5 +8,5 @@ Bài tập thực hành kiểm thử đơn vị bằng JUnit cho chương trình
 - Tính điểm trung bình hợp lệ (0 - 10)
 - Bỏ qua dữ liệu sai (<0 hoặc >10)
 
-## Cấu trúc thư mục
+
 
