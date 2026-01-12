@@ -1,4 +1,4 @@
-# 📊 KIỂM THỬ PHẦN MỀM
+# KIỂM THỬ PHẦN MỀM
 
 ## 👤 Thông tin sinh viên
 - **Họ và tên:** PHẠM NGUYỄN TÙNG DƯƠNG
@@ -17,15 +17,4 @@
 
 Chương trình thực hiện phân tích dữ liệu điểm số học sinh và kiểm thử tính đúng đắn của các chức năng.
 
----
-
-## 🎯 Mục tiêu
-- Đếm số học sinh đạt loại **Giỏi** (điểm ≥ 8.0)
-- Tính **điểm trung bình hợp lệ** (chỉ tính điểm từ 0 đến 10)
-- Bỏ qua các dữ liệu không hợp lệ
-- Viết test case kiểm thử đầy đủ cho các chức năng
-
----
-
-## 🗂️ Cấu trúc thư mục
 
