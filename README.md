@@ -1,10 +1,11 @@
-# 📊 Student Score Analyzer with JUnit
+# 📊 KIỂM THỬ PHẦN MỀM
 
 ## 👤 Thông tin sinh viên
-- **Họ và tên:** Nguyễn Văn A  
-- **Môn học:** Kiểm thử phần mềm  
-- **Chủ đề:** Thực hành kiểm thử đơn vị với JUnit  
-- **Ngôn ngữ:** Java  
+- **Họ và tên:** PHẠM NGUYỄN TÙNG DƯƠNG
+- **Môn học:** KIỂM THỬ PHẦN MỀM  
+- **Giảng viên hướng dẫn:** TRƯƠNG ANH HOÀNG  
+- **Học kỳ:** 2025-2026-2
+- **Trường/ Khoa:** Trường Đại học CMC / Khoa CNTT & Truyền Thông 
 
 ---
 
