@@ -34,7 +34,7 @@ Sinh viên trải nghiệm chất lượng giao diện phần mềm thông qua w
 
 **Kết quả đạt được:**
 - **Điểm số:** 4710  
-- **Minh chứng:** File ảnh kết quả nằm trong thư mục Can't Unsee.png
+- **Minh chứng:** Tệp ảnh kết quả nằm trong tệp Can't Unsee.png
 
 ### 🟢 Bài tập thực hành – Tuần 2  
 **Chủ đề:** Kiểm thử đơn vị (Unit Test) với JUnit – Phân tích dữ liệu điểm số học sinh
