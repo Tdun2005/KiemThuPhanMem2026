@@ -5,7 +5,7 @@
 - **Môn học:** Kiểm thử phần mềm  
 - **Giảng viên hướng dẫn:** Trương Anh Hoàng  
 - **Học kỳ:** 2025 – 2026 (Học kỳ 2)  
-- **Trường / Khoa:** Trường Đại học CMC – Khoa Công nghệ Thông tin & Truyền thông  
+- **Trường / Khoa:** Trường Đại học CMC – Khoa Công nghệ Thông tin và Truyền thông  
 
 ## 📌 Giới thiệu chung
 Đây là **GitHub Repository** dùng để lưu trữ **toàn bộ bài tập thực hành** của sinh viên trong học phần **Kiểm thử phần mềm**.
@@ -30,7 +30,7 @@ Sinh viên trải nghiệm chất lượng giao diện phần mềm thông qua w
 **Yêu cầu:**
 - Thực hiện bài test để đạt điểm cao nhất có thể
 - Chụp ảnh kết quả có **dấu hiệu cá nhân** (đăng nhập trình duyệt, thông tin người dùng)
-- Upload ảnh minh chứng lên GitHub Repository
+- Tải ảnh minh chứng lên GitHub Repository
 
 **Kết quả đạt được:**
 - **Điểm số:** 4710  
