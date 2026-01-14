@@ -16,8 +16,6 @@ Repository được tổ chức nhằm:
 - Làm quen với GitHub (Issues, Commit message, README)
 - Phục vụ cho việc giảng viên kiểm tra và đánh giá bài làm
 
-## 🗂️ Cấu trúc Repository
-
 ## 📌 Danh sách bài tập đã thực hiện
 - README.md: File mô tả tổng quan các bài tập trên Repository
 - các file lẻ, folder lẻ: Các bài tập thông qua từng tuần
